@@ -1,4 +1,4 @@
-# Infinite Radio Plugin
+# 📻 Infinite Radio Plugin
 
 Infinite_Radio is a simple EXILED plugin for SCP:SL that ensures radios never run out of battery, keeping their charge at a constant maximum level.
 
@@ -6,7 +6,7 @@ Infinite_Radio is a simple EXILED plugin for SCP:SL that ensures radios never ru
 - Radios always stay at 100% battery charge.
 - Simple and lightweight, minimal performance impact.
 
-## Installation Guide
+## 🔌 Installation Guide
 1. **Download EXILED**:  
    Ensure your server has EXILED installed. You can find installation instructions [here](https://github.com/Exiled-Team/EXILED/wiki).
 
